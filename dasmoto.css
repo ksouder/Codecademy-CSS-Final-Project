@@ -1,0 +1,39 @@
+h1 {
+    background-image: url('colortiles.jpg');
+    background-repeat: no-repeat;
+    height: auto;
+    width: 100%;
+    font-family: Helvetica;
+    font-size: 100px;
+    font-weight: bold;
+    color: khaki;
+    text-align: center;
+}
+
+h2 {
+    font-family: Helvetica;
+    font-size: 32px;
+    font-weight: bold;
+    color: white;
+}
+
+.brushes h2 {
+    background-color: mediumspringgreen;
+}
+
+h3, p, span {
+    font-family: Helvetica;
+}
+
+span {
+    font-weight: bold;
+    color: blue;
+}
+
+.frames h2 {
+    background-color: lightcoral;
+}
+
+.paint h2 {
+    background-color: skyblue;
+}
